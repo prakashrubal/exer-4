@@ -1,0 +1,129 @@
+.topnav a {
+    font-size: 30px;
+    color: red;
+    width: 1200px;
+    text-align: center;
+    padding: 5px 50px 5px 50px;
+    background-color: aqua;
+}
+
+
+h1 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    width: 1200px;
+    background-color: rgb(191, 255, 0);
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    outline-style: double;
+    }
+
+}
+
+h2 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    color: darkorange;
+    width: 1200px;
+    background-color: green;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+
+h3 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    color: green;
+    width: 1200px;
+    background-color: darkorange;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+h4 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    color: blue;
+    width: 1200px;
+    background-color: yellow;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.image .wrapper{
+    display:grid;
+    grid-template-columns:50% 50%;
+padding: 5px 5px 5px 5px;
+
+}
+
+h5 {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    color: black;
+    width: 1200px;
+    background-color: rgb(255, 69, 0);
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+h6 {
+    display: block;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(255, 69, 0);
+    width: 1200px;
+    background-color: green;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    border: black solid;
+    background-color: orange;
+}
+
+.hij {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    float: left;
+}
+
+.fgh {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    float: left;
+}
+
+.about ul li {
+    font: sans-serif;
+    font-size: 20;
+}
+
+@media screen and (min-width: 360px) {
+    body {
+        background: white;
+    }
+
+    body {
+        margin: 20px 20px 20px 20px;
+        font-family: sans-serif;
+
+    }
